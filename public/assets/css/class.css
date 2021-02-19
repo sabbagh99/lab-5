@@ -86,6 +86,8 @@ footer, header, hgroup, menu, nav, section {
 
 		header > p {
 			margin: 1em 0 0 0;
+			color: aquamarine;
+
 		}
 
 	footer {
@@ -641,10 +643,14 @@ footer, header, hgroup, menu, nav, section {
 
 				#main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
 					color: inherit;
+					color: #e27689;
+					font-weight: bold;
+
 				}
 
 				#main > section.dark strong {
-					color: #fff;
+					color: rgb(220 6 6);
+    font-weight: bold;
 					border-color: inherit;
 				}
 
